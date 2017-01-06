@@ -710,7 +710,7 @@ msgid "Play album"
 msgstr ""
 
 #: View/Songs/albums.ctp:7
-msgid "Recently added"
+msgid "Most recently added"
 msgstr ""
 
 #: View/Songs/albums.ctp:49

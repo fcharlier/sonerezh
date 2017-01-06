@@ -122,3 +122,4 @@ define('RESIZED_DIR', IMAGES.'resized'.DS);
 define('AVATARS_DIR', 'avatars');
 define('DOCKER', false);
 define('SYNC_BATCH_SIZE', 100);
+define('LATEST_NUM_ROWS', 12);

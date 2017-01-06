@@ -4,7 +4,7 @@ $this->end(); ?>
 
 <div class="col-lg-12" data-scroll-container="true" data-view="albums">
     <?php if (!empty($latests) && $this->Paginator->current('Song') == 1): ?>
-        <h3><?php echo __('Recently added'); ?></h3>
+        <h3><?php echo (LATEST_NUM_ROWS * 6) . " " . __('Most recently added'); ?></h3>
         <?php $i = 1; ?>
         <?php $hidden = ''; ?>
         <?php foreach ($latests as $album): ?>

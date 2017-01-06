@@ -735,8 +735,8 @@ msgid "Play album"
 msgstr "Lire l'album"
 
 #: View/Songs/albums.ctp:7
-msgid "Recently added"
-msgstr "Ajoutés récemment"
+msgid "Most recently added"
+msgstr "Ajoutés le plus récemment"
 
 #: View/Songs/albums.ctp:49
 msgid "All albums"
