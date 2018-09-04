@@ -713,7 +713,11 @@ msgstr ""
 msgid "Most recently added"
 msgstr ""
 
-#: View/Songs/albums.ctp:49
+#: View/Songs/albums.ctp:48
+msgid "Random albums"
+msgstr ""
+
+#: View/Songs/albums.ctp:50
 msgid "All albums"
 msgstr ""
 
